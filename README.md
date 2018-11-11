@@ -1,11 +1,11 @@
 # Sales Prediction
 
 ### Data Used
- Used sales data of superstore for past 7 years.
+ Used past 7 years sales data of a superstore. 
 
 ### Problem Statement
  Need to create a model that will predict the future sales
 
 ### Model Development Process
- Used concepts like phase_shifing, Stationarity, Tred decomposition, ARIMA for developing the model 
+ Used concepts like phase_shifing, Stationarity, Trend decomposition, ARIMA while developing the model 
  
